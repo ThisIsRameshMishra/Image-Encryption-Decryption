@@ -1,5 +1,7 @@
 Image Encryption/Decryption
+
 Using the AES algorithim we use to encrypt and decrypt the image.
+
 What is AES Algorithm?
  1) AES is a cryptographic algorithm used to protect Electronic data.
  2) It is a symmetric block cipher that can encrypt and decrypt information.
